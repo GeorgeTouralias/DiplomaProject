@@ -1,4 +1,4 @@
-# _ DiplomaProject_
+# _DiplomaProject_
 
 _The objective of this project is to develop a Web application that allows students to browse available
 diploma thesis projects from various professors and apply for the diploma thesis projects that interest 
