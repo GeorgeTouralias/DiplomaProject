@@ -6,7 +6,7 @@ them. The application further allows professors to assign diploma thesis project
 the assigned theses projects and assess the outcomes. The application also allows professors to have access to the archived subjects and theses_. 
 
 ## 
-## Bellow you'll find a demonstartion of the Diplomaproject via image.
+## - Bellow you'll find a demonstartion of the Diplomaproject via image.
 ##
 ### The following image shows the Homepage.
 ##
