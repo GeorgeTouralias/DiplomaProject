@@ -35,7 +35,7 @@ the assigned theses projects and assess the outcomes. The application also allow
 ##
 ## Professor at this point can add a subject and manage the Applications , Update the project or delete it!
 ###
-![AvailableSunjects](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/2862fd7d-047e-4455-919e-b50074964df0)
+![AvailableSunjects](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/7e14c614-61a5-414d-ade7-e7099921c600)
 ##
 ## Professor has access and can choose if the applicant(Student) is capable for the project Professor has two options: Assign via DirectAssign or Assign via Strategy.
 ###
