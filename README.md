@@ -25,7 +25,7 @@ the assigned theses projects and assess the outcomes. The application also allow
 ###
 ![LoginAsProfessor](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/03dc4c3e-0e66-432d-a232-26813b12aa9b)
 ##
-##
+## HomePage of User. Showing the role and the name of the user.
 ###
 ![ProfessorHomepage](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/6511fd2c-bda8-4c48-8779-926784553ddc)
 ##
@@ -37,9 +37,9 @@ the assigned theses projects and assess the outcomes. The application also allow
 ###
 ![AvailableSunjects](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/2862fd7d-047e-4455-919e-b50074964df0)
 ##
-##
+## Professor has access and can choose if the applicant(Student) is capable for the project Professor has two options: Assign via DirectAssign or Assign via Strategy.
 ###
-
+![StudentApplications](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/1aeb20a9-778b-4779-82d7-e62920a97d21)
 ##
-##
+## Professor has the option 
 ###
