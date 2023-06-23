@@ -13,11 +13,11 @@ the assigned theses projects and assess the outcomes. The application also allow
 ##
 ![Homepage](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/e87e08a6-dddc-41bd-82f9-1cc244306501)
 ##
-## User has the Login or Registration option. For registration there're choices of two different roles: Professor/Student .
+## User has the Login or Registration option.
 ###
 ![Login_Register](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/de2628ed-1d84-4918-85a6-0dd4cabfa123)
 ##
-##
+## For registration there're choices of two different roles: Professor/Student .
 ###
 ![RegisterAs_Choices](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/4afb0b96-4534-4607-b7fb-b0804e15eb9b)
 ##
