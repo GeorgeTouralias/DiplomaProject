@@ -21,7 +21,7 @@ the assigned theses projects and assess the outcomes. The application also allow
 ###
 ![RegisterAs_Choices](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/4afb0b96-4534-4607-b7fb-b0804e15eb9b)
 ##
-##
+## Below you can see the Home of  GeorgiosTouralias Registered as Professor and Logged In.
 ###
 ![LoginAsProfessor](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/03dc4c3e-0e66-432d-a232-26813b12aa9b)
 ##
