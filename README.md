@@ -23,3 +23,11 @@ the assigned theses projects and assess the outcomes. The application also allow
 ##
 ##
 ###
+![LoginAsProfessor](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/03dc4c3e-0e66-432d-a232-26813b12aa9b)
+##
+##
+###
+![ProfessorHomepage](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/6511fd2c-bda8-4c48-8779-926784553ddc)
+##
+##
+###
