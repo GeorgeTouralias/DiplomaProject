@@ -41,7 +41,7 @@ the assigned theses projects and assess the outcomes. The application also allow
 ###
 ![StudentApplications](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/1aeb20a9-778b-4779-82d7-e62920a97d21)
 ##
-## professor has four different strategies to choose: Random choice/Best average courses grade/fewest remaing courses for graduation/ Bases on average grade and remaining courses for graduation . Also professor has the abillty of seeting a limit for the average courses grade and max  number of remaining courses.
+## Professor has four different strategies to choose: Random choice/Best average courses grade/fewest remaing courses for graduation/ Bases on average grade and remaining courses for graduation . Also professor has the abillty of seeting a limit for the average courses grade and max  number of remaining courses.
 ###
 ![SelectStrategy](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/fab3cec5-6761-46a8-a63c-77a748309273)
 #
