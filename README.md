@@ -20,3 +20,6 @@ the assigned theses projects and assess the outcomes. The application also allow
 ##
 ###
 ![RegisterAs_Choices](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/4afb0b96-4534-4607-b7fb-b0804e15eb9b)
+##
+##
+###
