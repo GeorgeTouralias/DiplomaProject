@@ -13,7 +13,7 @@ the assigned theses projects and assess the outcomes. The application also allow
 ##
 ![Homepage](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/e87e08a6-dddc-41bd-82f9-1cc244306501)
 ##
-##
+## user has the Login or Registration option. For registration there're choices of two different roles: Professor/Student .
 ###
 ![Login_Register](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/de2628ed-1d84-4918-85a6-0dd4cabfa123)
 ##
@@ -28,6 +28,18 @@ the assigned theses projects and assess the outcomes. The application also allow
 ##
 ###
 ![ProfessorHomepage](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/6511fd2c-bda8-4c48-8779-926784553ddc)
+##
+## In this section professor can set personal information such as : First and last name and specialty!
+###
+![SetPersonalInformation](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/c9dea64f-6bf5-4656-a944-d973e1aabe4a)
+##
+## Professor at this point can add a subject and manage the Applications , Update the project or delete it!
+###
+![AvailableSunjects](https://github.com/GeorgeTouralias/DiplomaProject/assets/115742875/2862fd7d-047e-4455-919e-b50074964df0)
+##
+##
+###
+
 ##
 ##
 ###
